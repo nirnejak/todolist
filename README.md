@@ -1,7 +1,7 @@
 # To-Do List App
 A Simple To-Do List app built with React.js
 
-## Built Using
+### Built Using
 - React.js
 - React-Router
 - Axios
