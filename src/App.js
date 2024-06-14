@@ -13,7 +13,9 @@ import Header from './components/layout/Header';
 import AddTodo from './components/AddTodo';
 import About from './components/pages/About';
 
-import './App.css';
+// import './App.css';
+// we dont need to import App.css
+import './index.css'
 
 class App extends Component {
   state = {
